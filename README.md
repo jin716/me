@@ -61,10 +61,10 @@
 
 #### 2014年3月-2015年8月  COME 后台开发/法人 http://mindate.cn
 ###### COME社交APP后台API开发
-  COME:一个基于兴趣，LBS的小清新交友APP。COME台模块基于HTTPS协议，通过JSON传输数据对Andoid、iOS客户端进行支撑。由我一个人开发维护.
-  技术工具: JFinal/Jedis/Redis/MyBatis/Mysql
-  功能包括：
-  * 根据标签，时间，坐标三个因素对用户进行智能排序，并列出。坐标判定时，引入Geohash算法，对原SQL坐标查询判定的方式进行优化，立竿见影的提升了性能瓶颈。
+  COME:一个基于兴趣，LBS的小清新交友APP。COME台模块基于HTTPS协议，通过JSON传输数据对Andoid、iOS客户端进行支撑。由我一个人开发维护.    
+  技术工具: JFinal/Jedis/Redis/MyBatis/Mysql  
+  功能包括：  
+  *根据标签，时间，坐标三个因素对用户进行智能排序，并列出。坐标判定时，引入Geohash算法，对原SQL坐标查询判定的方式进行优化，立竿见影的提升了性能瓶颈。
   * 
   
 ###### COME聊天后台

@@ -140,7 +140,7 @@ Github：[https://github.com/jin716/fankk](https://github.com/jin716/fankk)
 
 ##  开源项目
 
-#### [ZhihuTag](https://github.com/jin716/zhihuTag) （原创Repo,建设中）
+#### [ZhihuTag](https://github.com/jin716/zhihuTag) （原创）
 根据话题关键字，搜索对此关键字最擅长的人，并根据这些用户在该话题下的赞数进行排序。  
 
 技术工具：Python/BeautifulSoup/Redis/Mysql/RestAPI   

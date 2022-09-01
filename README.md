@@ -156,7 +156,7 @@ COME是一个基于兴趣，LBS的小清新交友APP。COME后台基于HTTPS协�
 ## 2010年-2014年3月 拓见集团 技术部经理
 技术工具：Struts/Hibernate/JQuery/PHP/Wechat API
 
-* 组建技术部门，策划团队架构，招募新人，发起基本的JAVA技术培训等。
+* 组建技术部门，团队管理等。
 * 基于SSH的ERP系统二次开发。
 * 企业微信公众号API调用开发。
 * ECShop PHP商城改造开发。

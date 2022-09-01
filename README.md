@@ -137,8 +137,7 @@
 #### 2014年3月-2015年8月  [COME](http://mindate.cn) 后台开发工程师/创始人
 COME是一个基于兴趣，LBS的小清新交友APP。COME后台基于HTTPS协议，通过JSON传输数据对Andoid、iOS客户端进行支撑。后台由外包公司和我共同开发维护.  
 技术工具: JFinal/Jedis/Redis/MyBatis/Mysql/Hadoop/Netty/Protobuf  
-我的工作:  
-
+我的工作:    
 * 根据标签，时间，坐标三个因素对用户进行智能排序。对寻找附近的人，**引入基于坐标的二分法算法**，对经纬度进行哈希，用哈希值索引替代SQL坐标数值查询判定，立竿见影的提升了性能瓶颈。 
 * 聊天后台序列化方式改造，对原外包公司提供的XMPP聊天协议进行改造，使用Netty+Protobuf自定义协议栈开发聊天后台，对比原方案减少80%以上的的服务带宽，有效节省客服两端的聊天流量。  
 * 使用Bootstarp+JQuery快速开发的web管理页面。
@@ -146,7 +145,7 @@ COME是一个基于兴趣，LBS的小清新交友APP。COME后台基于HTTPS协�
   
 
 #### 2010年-2014年3月 拓见集团 技术部经理
-技术工具：Struts/Hibernate/JQuery/PHP/Wechat API
+技术工具：Struts/Hibernate/JQuery/PHP/Wechat API
 
 * 组建技术部门，策划团队架构，招募新人，发起基本的JAVA技术培训等。
 * 基于SSH的ERP系统二次开发。

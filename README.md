@@ -143,7 +143,7 @@
  * 我的工作：将紧密耦合到数据库的PL/SQL的业务程序，解耦到基于MyBatis的服务框架中。
 
   
-#### 2014年3月-2015年8月  [COME](http://mindate.cn) 后台开发工程师/创始人
+## 2014年3月-2015年8月  [COME](http://mindate.cn) 后台开发工程师/创始人
 COME是一个基于兴趣，LBS的小清新交友APP。COME后台基于HTTPS协议，通过JSON传输数据对Andoid、iOS客户端进行支撑。后台由外包公司和我共同开发维护.  
 技术工具: JFinal/Jedis/Redis/MyBatis/Mysql/Hadoop/Netty/Protobuf  
 我的工作:    
@@ -153,7 +153,7 @@ COME是一个基于兴趣，LBS的小清新交友APP。COME后台基于HTTPS协�
 * 兼任项目经理，组建并稳定初始技术团队，在任期间无人离职，并顺利完成预定版本目标。
   
 
-#### 2010年-2014年3月 拓见集团 技术部经理
+## 2010年-2014年3月 拓见集团 技术部经理
 技术工具：Struts/Hibernate/JQuery/PHP/Wechat API
 
 * 组建技术部门，策划团队架构，招募新人，发起基本的JAVA技术培训等。
